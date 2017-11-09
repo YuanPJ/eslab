@@ -1,1 +1,1 @@
-initialize
+Embedded System Lab
